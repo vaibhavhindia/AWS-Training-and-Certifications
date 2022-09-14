@@ -1,5 +1,3 @@
-# The Element of Data Science
-
 # [The Elements of Data Science](https://www.aws.training/Details/eLearning?id=26598)
 In this course, we'll explore the machine learning process from end-to-end. It's important to know how data influences and impacts this process, because your machine learning solution is only as good as the data that drives it.
 

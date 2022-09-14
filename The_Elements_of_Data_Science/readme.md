@@ -7,8 +7,11 @@ In this course, we'll explore the machine learning process from end-to-end. It's
 In this section we'll discuss managing, analyzing, and visualizing data. Machine learning models are only useful when you have high-quality data, which can be curated using the data science workflow.
 
 ![Knowledge_Check_1_1](/The_Elements_of_Data_Science/images/Knowledge%20check%201.1.PNG)
-![Knowledge_Check_1_2](/The_Elements_of_Data_Science/images/Knowledge check 1.2.PNG)
-![Knowledge_Check_1_3](/The_Elements_of_Data_Science/images/Knowledge_Check_1_3.PNG)
+![Knowledge_Check_1_2](/The_Elements_of_Data_Science/images/Knowledge%20check%201.2.PNG)
+![Knowledge_Check_1_3](/The_Elements_of_Data_Science/images/Knowledge%20check%201.3.PNG)
+![Knowledge_Check_1_4](/The_Elements_of_Data_Science/images/Knowledge%20check%201.4.PNG)
+![Knowledge_Check_1_5](/The_Elements_of_Data_Science/images/Knowledge%20check%201.5.PNG)
+![Knowledge_Check_1_6](/The_Elements_of_Data_Science/images/Knowledge%20check%201.6.PNG)
 
 # Problem Formulation and Exploratory Data Analysis
 This section covers best practices for transforming a business problem into a machine learning problem. Additional topics include techniques for data exploration, cleaning, and visualization.

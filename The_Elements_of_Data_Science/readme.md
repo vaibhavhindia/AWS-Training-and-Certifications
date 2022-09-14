@@ -1,7 +1,7 @@
 # [The Elements of Data Science](https://www.aws.training/Details/eLearning?id=26598)
 In this course, we'll explore the machine learning process from end-to-end. It's important to know how data influences and impacts this process, because your machine learning solution is only as good as the data that drives it.
 
-![The_Elements_of_Data_Science_Certificate](/The_Elements_of_Data_Science/images/The_Elements_of_Data_Science_Certificate.PNG)
+![The_Elements_of_Data_Science_Certificate](/The_Elements_of_Data_Science/images/The%20Elements%20of%20Data%20Science.PNG)
 
 # What is Data Science?
 In this section we'll discuss managing, analyzing, and visualizing data. Machine learning models are only useful when you have high-quality data, which can be curated using the data science workflow.
@@ -23,23 +23,21 @@ This section covers best practices for transforming a business problem into a ma
 # Data Processing and Feature Engineering
 This section of the course defines data processing and feature engineering. We'll talk in more detail about these topics later on in the course but for now, let's take a look at best practices for data processing, and the importance of feature engineering. 
 
-![Knowledge_Check_3_1](/The_Elements_of_Data_Science/images/Knowledge_Check_3_1.PNG)
-![Knowledge_Check_3_2](/The_Elements_of_Data_Science/images/Knowledge_Check_3_2.PNG)
-![Knowledge_Check_3_3](/The_Elements_of_Data_Science/images/Knowledge_Check_3_3.PNG)
-![Knowledge_Check_3_4](/The_Elements_of_Data_Science/images/Knowledge_Check_3_4.PNG)
+![Knowledge_Check_3_1](/The_Elements_of_Data_Science/images/Knowledge%20check%203.1.PNG)
+![Knowledge_Check_3_2](/The_Elements_of_Data_Science/images/Knowledge%20check%203.2.PNG)
+![Knowledge_Check_3_3](/The_Elements_of_Data_Science/images/Knowledge%20check%203.3.PNG)
+![Knowledge_Check_3_4](/The_Elements_of_Data_Science/images/Knowledge%20check%203.4.PNG)
 
 # Model Training, Tuning, and Debugging
 In this section of the course we discuss how you can continuously improve your machine learning models by training, tuning, and debugging them.  
 
-![Knowledge_Check_4_1](/The_Elements_of_Data_Science/images/Knowledge_Check_4_1.PNG)
-![Knowledge_Check_4_2](/The_Elements_of_Data_Science/images/Knowledge_Check_4_2.PNG)
-![Knowledge_Check_4_3](/The_Elements_of_Data_Science/images/Knowledge_Check_4_3.PNG)
-![Knowledge_Check_4_4](/The_Elements_of_Data_Science/images/Knowledge_Check_4_4.PNG)
+![Knowledge_Check_4_1](/The_Elements_of_Data_Science/images/Knowledge%20check%204.1.PNG)
+![Knowledge_Check_4_2](/The_Elements_of_Data_Science/images/Knowledge%20check%204.2.PNG)
 
 # Model Evaluation and Model Productionizing
 In this section of the course, we'll focus on the production phase of the machine learning pipeline. We'll review the cycle of machine learning projects, and examine how AWS services can help the storage, monitoring, and maintenance aspects of model production.  
 
-![Knowledge_Check_5_1](/The_Elements_of_Data_Science/images/Knowledge_Check_5_1.PNG)
-![Knowledge_Check_5_2](/The_Elements_of_Data_Science/images/Knowledge_Check_5_2.PNG)
-![Knowledge_Check_5_3](/The_Elements_of_Data_Science/images/Knowledge_Check_5_3.PNG)
-![Knowledge_Check_5_4](/The_Elements_of_Data_Science/images/Knowledge_Check_5_4.PNG)
+![Knowledge_Check_5_1](/The_Elements_of_Data_Science/images/Knowledge%20check%205.1.PNG)
+![Knowledge_Check_5_2](The_Elements_of_Data_Science/images/Knowledge%20check%205.2.PNG)
+![Knowledge_Check_5_3](/The_Elements_of_Data_Science/images/Knowledge%20check%205.3.PNG)
+

@@ -38,6 +38,6 @@ In this section of the course we discuss how you can continuously improve your m
 In this section of the course, we'll focus on the production phase of the machine learning pipeline. We'll review the cycle of machine learning projects, and examine how AWS services can help the storage, monitoring, and maintenance aspects of model production.  
 
 ![Knowledge_Check_5_1](/The_Elements_of_Data_Science/images/Knowledge%20check%205.1.PNG)
-![Knowledge_Check_5_2](The_Elements_of_Data_Science/images/Knowledge%20check%205.2.PNG)
+![Knowledge_Check_5_2](/The_Elements_of_Data_Science/images/Knowledge%20check%205.2.PNG)
 ![Knowledge_Check_5_3](/The_Elements_of_Data_Science/images/Knowledge%20check%205.3.PNG)
 

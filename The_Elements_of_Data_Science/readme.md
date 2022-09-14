@@ -16,9 +16,9 @@ In this section we'll discuss managing, analyzing, and visualizing data. Machine
 # Problem Formulation and Exploratory Data Analysis
 This section covers best practices for transforming a business problem into a machine learning problem. Additional topics include techniques for data exploration, cleaning, and visualization.
 
-![Knowledge_Check_2_1](/The_Elements_of_Data_Science/images/Knowledge_Check_2_1.PNG)
-![Knowledge_Check_2_2](/The_Elements_of_Data_Science/images/Knowledge_Check_2_2.PNG)
-![Knowledge_Check_2_3](/The_Elements_of_Data_Science/images/Knowledge_Check_2_3.PNG)
+![Knowledge_Check_2_1](/The_Elements_of_Data_Science/images/Knowledge%20check%202.1.PNG)
+![Knowledge_Check_2_2](/The_Elements_of_Data_Science/images/Knowledge%20check%202.2.PNG)
+![Knowledge_Check_2_3](/The_Elements_of_Data_Science/images/Knowledge%20check%202.3.PNG)
 
 # Data Processing and Feature Engineering
 This section of the course defines data processing and feature engineering. We'll talk in more detail about these topics later on in the course but for now, let's take a look at best practices for data processing, and the importance of feature engineering. 

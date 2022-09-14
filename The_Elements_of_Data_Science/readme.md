@@ -6,7 +6,7 @@ In this course, we'll explore the machine learning process from end-to-end. It's
 # What is Data Science?
 In this section we'll discuss managing, analyzing, and visualizing data. Machine learning models are only useful when you have high-quality data, which can be curated using the data science workflow.
 
-![Knowledge_Check_1_1](/The_Elements_of_Data_Science/images/Knowledge_Check_1_1.PNG)
+![Knowledge_Check_1_1](/The_Elements_of_Data_Science/images/Knowledge%20check%201.1.PNG)
 ![Knowledge_Check_1_2](/The_Elements_of_Data_Science/images/Knowledge_Check_1_2.PNG)
 ![Knowledge_Check_1_3](/The_Elements_of_Data_Science/images/Knowledge_Check_1_3.PNG)
 

@@ -53,3 +53,51 @@ In a hybrid deployment, cloud-based resources are connected to on-premises infra
 
 For example, suppose that a company wants to use cloud services that can automate batch data processing and analytics. However, the company has several legacy applications that are more suitable on premises and will not be migrated to the cloud. With a hybrid deployment, the company would be able to keep the legacy applications on premises while benefiting from the data and analytics services that run in the cloud.
 
+# Benefits of cloud computing
+Consider why a company might choose to take a particular cloud computing approach when addressing business needs.
+
+To learn more, select the + symbol next to each category.
+
+
+## 1. Trade upfront expense for variable expense
+
+Upfront expense refers to data centers, physical servers, and other resources that you would need to invest in before using them. Variable expense means you only pay for computing resources you consume instead of investing heavily in data centers and servers before you know how you’re going to use them.
+
+
+By taking a cloud computing approach that offers the benefit of variable expense, companies can implement innovative solutions while saving on costs.
+
+## 2. Stop Spending money to run and maintain data centers
+
+Computing in data centers often requires you to spend more money and time managing infrastructure and servers. 
+
+A benefit of cloud computing is the ability to focus less on these tasks and more on your applications and customers.
+
+## 3. Stop Guessing Capacity 
+With cloud computing, you don’t have to predict how much infrastructure capacity you will need before deploying an application. 
+
+For example, you can launch Amazon EC2 instances when needed, and pay only for the compute time you use. Instead of paying for unused resources or having to deal with limited capacity, you can access only the capacity that you need. You can also scale in or scale out in response to demand.
+
+## 4. Benefits From Massive Economies of scale
+By using cloud computing, you can achieve a lower variable cost than you can get on your own.
+
+Because usage from hundreds of thousands of customers can aggregate in the cloud, providers, such as AWS, can achieve higher economies of scale. The economy of scale translates into lower pay-as-you-go prices. 
+
+## 5. Increase Speed and Agility
+The flexibility of cloud computing makes it easier for you to develop and deploy applications.
+
+This flexibility provides you with more time to experiment and innovate. When computing in data centers, it may take weeks to obtain new resources that you need. By comparison, cloud computing enables you to access new resources within minutes.
+
+## 6. Go Global In Minutes
+The global footprint of the AWS Cloud enables you to deploy applications to customers around the world quickly, while providing them with low latency. This means that even if you are located in a different part of the world than your customers, customers are able to access your applications with minimal delays. 
+
+Later in this course, you will explore the AWS global infrastructure in greater detail. You will examine some of the services that you can use to deliver content to customers around the world.
+
+# Additional resources
+To learn more about the concepts that were explored in Module 1, review these resources.
+
+1. AWS glossary ( https://docs.aws.amazon.com/general/latest/gr/glos-chap.html )
+2. Whitepaper: Overview of Amazon Web Services (https://d0.awsstatic.com/whitepapers/aws-overview.pdf )
+3. AWS Fundamentals: Overview ( https://aws.amazon.com/getting-started/fundamentals-overview )
+4. What is cloud computing? ( https://aws.amazon.com/what-is-cloud-computing/ )
+5. Types of cloud computing ( https://aws.amazon.com/types-of-cloud-computing/ )
+6. Cloud computing with AWS ( https://aws.amazon.com/what-is-aws/ )

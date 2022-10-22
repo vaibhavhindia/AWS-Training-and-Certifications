@@ -69,3 +69,22 @@ With AWS CloudFormation, you can treat your infrastructure as code. This means t
 
 AWS CloudFormation provisions your resources in a safe, repeatable manner, enabling you to frequently build your infrastructure and applications without having to perform manual actions. It determines the right operations to perform when managing your stack and rolls back changes automatically if it detects errors.
 
+# Module 3 summary
+In Module 3, you learned about the following concepts:
+
+1. AWS Regions and Availability Zones
+2. Edge locations and Amazon CloudFront
+3. The AWS Management Console, AWS CLI, and SDKs
+4. AWS Elastic Beanstalk
+5. AWS CloudFormation
+
+# Additional resources
+
+Review these resources to learn more about the concepts that were explored in Module 3.
+
+1. Global Infrastructure ( https://aws.amazon.com/about-aws/global-infrastructure/ )
+2. Interactive map of the AWS Global Infrastructure (https://www.infrastructure.aws/)
+3. Regions and Availability Zones ( https://aws.amazon.com/about-aws/global-infrastructure/regions_az )
+4. AWS Networking and Content Delivery Blog ( https://aws.amazon.com/blogs/networking-and-content-delivery/ )
+5. Tools to Build on AWS ( https://aws.amazon.com/tools/ )
+6. AWS Customer Stories: Content Delivery ( https://aws.amazon.com/solutions/case-studies/?customer-references-cards.sort-by=item.additionalFields.publishedDate&customer-references-cards.sort-order=desc&awsf.customer-references-location=*all&awsf.customer-references-segment=*all&awsf.customer-references-product=product%23vpc%7Cproduct%23api-gateway%7Cproduct%23cloudfront%7Cproduct%23route53%7Cproduct%23directconnect%7Cproduct%23elb&awsf.customer-references-category=category%23content-delivery )

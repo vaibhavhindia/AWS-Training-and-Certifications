@@ -165,6 +165,22 @@ Suppose that AnyCompany’s application is running on several Amazon EC2 instanc
 
 4. Amazon CloudFront connects to the Application Load Balancer, which sends the incoming packet to an Amazon EC2 instance.
 
+# Module 4 summary
+In Module 4, you learned about the following concepts:
+
+1. Structuring and connecting to a VPC
+2. Securing VPC resources with network access control lists and security groups
+3. Using Amazon Route 53 and Amazon CloudFront to deliver content
+
+# Additional resources
+
+To learn more about the concepts that were explored in Module 4, review these resources.
+
+1. Networking and Content Delivery on AWS 
+2. AWS Networking & Content Delivery Blog
+3. Amazon Virtual Private Cloud
+4. What is Amazon VPC?
+5. How Amazon VPC works
 
 
 

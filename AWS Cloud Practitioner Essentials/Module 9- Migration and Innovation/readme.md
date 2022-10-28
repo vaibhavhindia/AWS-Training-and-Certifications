@@ -96,3 +96,59 @@ When migrating applications to the cloud, six of the most common migration strat
 4. Repurchasing
 5. Retaining
 6. Retiring
+
+# AWS Snow Family members
+
+The AWS Snow Family is a collection of physical devices that help to physically transport up to exabytes of data into and out of AWS. 
+
+AWS Snow Family is composed of AWS Snowcone, AWS Snowball, and AWS Snowmobile. 
+
+Illustration of the three AWS Snow Family members: AWS Snowcone, AWS Snowball, and AWS Snowmobile
+These devices offer different capacity points, and most include built-in computing capabilities. AWS owns and manages the Snow Family devices and integrates with AWS security, monitoring, storage management, and computing capabilities.  
+
+1. AWS Snowcone is a small, rugged, and secure edge computing and data transfer device. 
+It features 2 CPUs, 4 GB of memory, and 8 TB of usable storage.
+
+2. AWS Snowball offers two types of devices:
+
+Snowball Edge Storage Optimized devices are well suited for large-scale data migrations and recurring transfer workflows, in addition to local computing with higher capacity needs. 
+Storage: 80 TB of hard disk drive (HDD) capacity for block volumes and Amazon S3 compatible object storage, and 1 TB of SATA solid state drive (SSD) for block volumes. 
+Compute: 40 vCPUs, and 80 GiB of memory to support Amazon EC2 sbe1 instances (equivalent to C5).
+Snowball Edge Compute Optimized provides powerful computing resources for use cases such as machine learning, full motion video analysis, analytics, and local computing stacks. 
+Storage: 42-TB usable HDD capacity for Amazon S3 compatible object storage or Amazon EBS compatible block volumes and 7.68 TB of usable NVMe SSD capacity for Amazon EBS compatible block volumes. 
+Compute: 52 vCPUs, 208 GiB of memory, and an optional NVIDIA Tesla V100 GPU. Devices run Amazon EC2 sbe-c and sbe-g instances, which are equivalent to C5, M5a, G3, and P3 instances.
+
+3. AWS Snowmobile is an exabyte-scale data transfer service used to move large amounts of data to AWS. 
+You can transfer up to 100 petabytes of data per Snowmobile, a 45-foot long ruggedized shipping container, pulled by a semi trailer truck.
+
+
+# Innovate with AWS Services
+
+When examining how to use AWS services, it is important to focus on the desired outcomes. You are properly equipped to drive innovation in the cloud if you can clearly articulate the following conditions: 
+
+1. The current state
+2. The desired state
+3. The problems you are trying to solve
+Consider some of the paths you might explore in the future as you continue on your cloud journey. 
+
+# Module 9 summary
+In Module 9, you learned about the following concepts:
+
+1. The AWS Cloud Adoption Framework
+2. The six strategies for migration
+3. The AWS Snow Family
+4. Innovation with AWS services
+
+# Additional resources
+
+To learn more about the concepts that were explored in Module 9, review these resources.
+
+1. Migration & Transfer on AWS
+2. A Process for Mass Migrations to the Cloud
+3. 6 Strategies for Migrating Applications to the Cloud
+4. AWS Cloud Adoption Framework
+5. AWS Fundamentals: Core Concepts
+6. AWS Cloud Enterprise Strategy Blog
+7. Modernizing with AWS Blog
+8. AWS Customer Stories: Data Center Migration
+

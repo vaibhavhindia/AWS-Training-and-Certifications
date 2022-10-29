@@ -1,5 +1,5 @@
 # AWS Cloud Practitioner Essentials
-[AWS Cloud Practitioner Essentials](/https://github.com/vaibhavhindia/AWS-Training-and-Certifications/blob/main/AWS%20Cloud%20Practitioner%20Essentials/134_3_2259439_1666956308AWS%20Course%20Completion%20Certificate.pdf)
+![AWS Cloud Practitioner Essentials_Certificate](https://github.com/vaibhavhindia/AWS-Training-and-Certifications/blob/main/AWS%20Cloud%20Practitioner%20Essentials/aws%20cloud%20practitioner.png)
 
 ## Course Description 
 This course is for individuals who seek an overall understanding of the Amazon Web Services (AWS) Cloud, independent of specific technical roles. You will learn about AWS Cloud concepts, AWS services, security, architecture, pricing, and support to build your AWS Cloud knowledge. This course also helps you prepare for the AWS Certified Cloud Practitioner exam. 
